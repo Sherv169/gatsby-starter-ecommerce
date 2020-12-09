@@ -35,7 +35,6 @@ class ProductPageTemplate extends React.PureComponent {
     )
   }
 }
-
 export default ProductPageTemplate
 
 export const pageQuery = graphql`
